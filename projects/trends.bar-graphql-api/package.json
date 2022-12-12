@@ -28,7 +28,7 @@
     "eh_helpers": "^1.0.4",
     "eh_logger": "^1.0.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "latest",
     "graphql-subscriptions": "^1.1.0",
     "jsonwebtoken": "^8.5.1",
